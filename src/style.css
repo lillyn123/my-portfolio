@@ -1,0 +1,15 @@
+h1.name {
+    font-size: 50px;
+}
+
+h2.sub-title {
+    font-size: 20px;
+}
+
+.homepage-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
